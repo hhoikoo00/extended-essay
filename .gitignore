@@ -1,0 +1,4 @@
+# Ignore IDEA Temporary files
+.idea/
+*.iml
+out/
